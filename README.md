@@ -1,2 +1,2 @@
-# lpw22
+# lpw2
 Aula de HTML CSS e JavaScript
